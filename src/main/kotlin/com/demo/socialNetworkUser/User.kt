@@ -3,6 +3,9 @@ package com.demo.socialNetworkUser
 import java.time.LocalDate
 import java.time.Period
 
+/**
+ * Usuario de red social.
+ */
 class User(
         private val fullName: String,
         private val username: String,

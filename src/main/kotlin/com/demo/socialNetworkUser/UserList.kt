@@ -1,5 +1,8 @@
 package com.demo.socialNetworkUser
 
+/**
+ * Lista de usuarios de red social.
+ */
 class UserList {
 
     private val users: MutableList<User>
