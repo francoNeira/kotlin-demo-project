@@ -3,6 +3,9 @@ package com.demo.uiList
 import kotlin.math.pow
 import kotlin.math.roundToInt
 
+/**
+ * Gestor de listas de enteros.
+ */
 class UILIst {
 
     // Métodos
