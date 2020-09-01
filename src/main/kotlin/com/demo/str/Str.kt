@@ -2,6 +2,9 @@ package com.demo.str
 
 import java.text.Normalizer
 
+/**
+ * Gestor de strings.
+ */
 class Str {
 
     /**
