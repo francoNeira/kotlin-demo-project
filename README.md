@@ -7,3 +7,5 @@ Program that allows converting different units of length.
 ### 2nd project: Social Network User
 Program that allows obtaining information from a user of a social network.
 
+### 3rd project: Str
+Program that allows you to manipulate strings.
